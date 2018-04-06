@@ -1,0 +1,21 @@
+body {
+background: #faebd7;
+text-align: center;
+}
+p {
+text-align: left;
+text-indent: 48px;
+font-size: 14pt;
+}
+img {
+width: 600px;
+height: 400px;
+}
+li {
+font-size: 16pt;
+text-align: left;
+}
+iframe {
+width: 500px;
+height: 400px;
+}
